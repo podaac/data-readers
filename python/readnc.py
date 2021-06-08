@@ -26,7 +26,7 @@ from netCDF4 import Dataset
 __author__     = "David Moroni"
 __copyright__  = "Copyright 2012, California Institute of Technology"
 __credits__    = ["Ed Armstrong and David Moroni"]
-__license__    = "none"
+__license__    = "Apache 2.0"
 __version__    = "1.0"
 __maintainer__ = "David Moroni"
 __email__      = "david.m.moroni at jpl dot nasa dot gov"
