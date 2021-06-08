@@ -32,10 +32,10 @@ from netCDF4 import Dataset
 
 # authorship
 __author__     = "David Moroni"
-__copyright__  = "Copyright 2012, California Institute of Technology"
-__credits__    = ["Ed Armstrong and David Moroni"]
-__license__    = "none"
-__version__    = "1.0"
+__copyright__  = "Copyright 2020, California Institute of Technology"
+__credits__    = ["Ed Armstrong, David Moroni, and Suniti Sanghavi"]
+__license__    = "Apache 2.0"
+__version__    = "1.1"
 __maintainer__ = "David Moroni"
 __email__      = "david.m.moroni at jpl dot nasa dot gov"
 __status__     = "Release Candidate"
