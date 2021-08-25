@@ -3,9 +3,10 @@
 IDL functions that will read the entire contents of netCDF granules
 into structures.
 
-get_netcdf_vars.pro 	    : function to read netCDF variables and attributes
+get_netcdf_vars.pro 	      : function to read netCDF variables and attributes
 get_netcdf_global_atts.pro  : function to read netCDF global attributes
-ncwrapper.pro		    : wrapper around above functions to read entire file contents
+ncwrapper.pro		            : generic netCDF wrapper around above functions to read entire file contents
+read_scat_l2_nc.pro         : genericized netCDF wrapper fine-tuned for reading Level 2 scatterometer datasets (e.g., ASCAT, QuikSCAT, RapidSCAT)
 
 Example USAGE:
 
