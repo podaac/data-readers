@@ -11,10 +11,11 @@ Readers are available in Python (version 3.x), R, IDL, and MATLAB.
 
 Each reader has its own dependencies depending on the native programming language, but the core dependency for each reader are the libraries and packages required to read formatted data. At this time, the only formatted data that these readers are designed for is netCDF (v3, v4, and v4-classic). NetCDF libraries and packages are available for various programming languages as follows:
 
-1. Python - https://github.com/Unidata/netcdf4-python
-2. R - https://github.com/mjwoods/RNetCDF
-3. MATLAB (built-in netCDF package) - https://www.mathworks.com/help/matlab/network-common-data-form.html
-4. IDL (built-in netCDF package) - https://www.l3harrisgeospatial.com/docs/routines-101.html
+1. Zarr - https://github.com/pydata/xarray
+2. Python - https://github.com/Unidata/netcdf4-python
+3. R - https://github.com/mjwoods/RNetCDF
+4. MATLAB (built-in netCDF package) - https://www.mathworks.com/help/matlab/network-common-data-form.html
+5. IDL (built-in netCDF package) - https://www.l3harrisgeospatial.com/docs/routines-101.html
 
 ## Note: 
 The code contained within this repository is intended for generic use across many different datasets. As such, this code is not guarunteed to work for all datasets, even when sharing a common data format. As the code continues to be tested for a wider variety of datasets, this repository will be periodically updated to ensure wider compatibility across common data formats. 
