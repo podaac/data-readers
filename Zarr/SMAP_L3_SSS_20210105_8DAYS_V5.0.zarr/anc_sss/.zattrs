@@ -1,0 +1,13 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "HYCOM sea surface salinity",
+    "standard_name": "sea_surface_salinity",
+    "units": "1e-3",
+    "valid_max": 45,
+    "valid_min": 0
+}

@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "Sum of Gaussian weighting factors",
+    "valid_min": 0
+}

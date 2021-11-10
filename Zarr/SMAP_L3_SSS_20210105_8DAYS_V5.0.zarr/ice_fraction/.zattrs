@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "Average ice fraction",
+    "valid_max": 1,
+    "valid_min": 0
+}

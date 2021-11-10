@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time"
+    ],
+    "calendar": "proleptic_gregorian",
+    "comment": "Midpoint of time interval of analyzed fields",
+    "coverage_content_type": "coordinate",
+    "long_name": "Reference time of sss field",
+    "standard_name": "time",
+    "units": "seconds since 2015-01-01T00:00:00+00:00"
+}

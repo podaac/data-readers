@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "longitude"
+    ],
+    "axis": "X",
+    "coverage_content_type": "coordinate",
+    "long_name": "longitude of grid cell",
+    "standard_name": "longitude",
+    "units": "degrees_east"
+}

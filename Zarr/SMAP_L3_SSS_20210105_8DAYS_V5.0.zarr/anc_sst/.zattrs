@@ -1,0 +1,13 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "Sea surface temperature",
+    "standard_name": "sea_surface_temperature",
+    "units": "K",
+    "valid_max": 340,
+    "valid_min": 0
+}

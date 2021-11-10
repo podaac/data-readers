@@ -1,0 +1,12 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "SMAP SSS uncertainty",
+    "units": "1e-3",
+    "valid_max": 50,
+    "valid_min": 0
+}

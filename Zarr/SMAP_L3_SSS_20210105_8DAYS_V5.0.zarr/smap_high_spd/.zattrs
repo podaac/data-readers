@@ -1,0 +1,13 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "latitude",
+        "longitude"
+    ],
+    "coordinates": "latitude longitude",
+    "coverage_content_type": "physicalMeasurement",
+    "long_name": "SMAP 10 m wind speed (using ancillary SSS)",
+    "standard_name": "wind_speed",
+    "units": "m s-1",
+    "valid_max": 100,
+    "valid_min": 0
+}
